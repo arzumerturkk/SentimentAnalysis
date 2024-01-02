@@ -1,5 +1,5 @@
 
-# Sentiment Analysis
+# Sentiment Analysis Project
 
 This project was created to perform sentiment analysis on Amazon's digital software products.
 
